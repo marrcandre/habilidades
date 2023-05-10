@@ -10,7 +10,7 @@ Cada gráfico é salvo como um arquivo PNG na pasta "`figs`" na raiz do projeto.
 Para baixar e executar o projeto, siga as instruções abaixo:
 
 - Certifique-se de ter o Python 3.6 ou superior instalado em sua máquina.
-- Clone o repositório do projeto em sua máquina local usando o comando: `git clone https://github.com/seu-username/nome-do-repositorio.git`
+- Clone o repositório do projeto em sua máquina local usando o comando: `git clone https://github.com/marrcandre/habilidades.git`
 - Instale as dependências do projeto usando o pdm, com o comando `pdm install`
 - Execute o script principal do projeto usando o comando `pdm run python main.py`
 
